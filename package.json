@@ -1,0 +1,15 @@
+{
+  "name": "walmir-filho-02-01-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [],
+  "author": "Felipe Rubim",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.5.0"
+  }
+}
